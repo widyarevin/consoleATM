@@ -1,0 +1,7 @@
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\bin\Debug\WidyaRevin_Exercise3_ATM.exe.config
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\bin\Debug\WidyaRevin_Exercise3_ATM.exe
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\bin\Debug\WidyaRevin_Exercise3_ATM.pdb
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\obj\Debug\WidyaRevin_Exercise3_ATM.csproj.AssemblyReference.cache
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\obj\Debug\WidyaRevin_Exercise3_ATM.csproj.CoreCompileInputs.cache
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\obj\Debug\WidyaRevin_Exercise3_ATM.exe
+C:\Drivers\Apk\C#\Exercise\ITC 30 C# Exercise3\WidyaRevin_Exercise3\WidyaRevin_Exercise3_ATM\WidyaRevin_Exercise3_ATM\obj\Debug\WidyaRevin_Exercise3_ATM.pdb
